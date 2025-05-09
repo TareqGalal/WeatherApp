@@ -111,15 +111,82 @@
       <option name="project" value="LOCAL؜" />
       <updated>1746815140388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL؜-٠٠٠٠٣" summary="Intial commit for weather app">
+      <option name="closed" value="true" />
+      <created>1746815183489</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1746815183489</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٤" summary="Intial commit for weather app">
+      <option name="closed" value="true" />
+      <created>1746815318282</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1746815318282</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٥" summary="Intial commit for weather app">
+      <option name="closed" value="true" />
+      <created>1746815326497</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1746815326497</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٦" summary="Intial commit for weather app">
+      <option name="closed" value="true" />
+      <created>1746815378630</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1746815378630</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٧" summary="Intial commit for weather app">
+      <option name="closed" value="true" />
+      <created>1746815385181</created>
+      <option name="number" value="٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٧" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1746815385181</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
