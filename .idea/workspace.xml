@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56e4a75-c1b1-4b69-9288-87fa4b2fc243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weatherapp/UIUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weatherapp/WeatherAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weatherapp/WeatherApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weatherapp/WeatherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weatherapp/WeatherResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/weatherapp/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="c56e4a75-c1b1-4b69-9288-87fa4b2fc243" name="Changes" comment="Intial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +95,15 @@
       <option name="presentableId" value="Default" />
       <updated>1746803766886</updated>
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="Intial commit">
+      <option name="closed" value="true" />
+      <created>1746814105802</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1746814105802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intial commit" />
   </component>
 </project>
